@@ -26,12 +26,15 @@ Les mobs (skills,mobs,items...) seront classés en **3 groupes** :
 
 ### © Copyright
 
-**La question la plus importante doit être comment utiliser tout ces fichiers**. Car **Oui**, il y a quand même des règles sur ces fichiers, Ils sont sous la lience [Creative Commons Attribution - Utilisation non commerciale - Partage dans les mêmes conditions](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.fr).
+**La question la plus importante doit être comment utiliser tout ces fichiers**. Car **Oui**, il y a quand même des règles sur ces fichiers, Ils sont sous la lience [Creative Commons Attribution - Utilisation non commerciale - Partage](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.fr).
 
-![Creative Common Symbole](https://licensebuttons.net/l/by-nc-sa/3.0/nl/88x31.png)
+![Creative Common Symbole](https://screenshotscdn.firefoxusercontent.com/images/7b98e988-446b-4972-88f2-04b2d3898736.png)
 
 Vous ne pouvez donc **aucunement vendre** tout les fichiers ici, ces règles ne s'appliquent pas si ils font partis d'un tout plus grand (serveur). Ils peuvent donc être vendus par exemple en tant qu'oeufs de monstres dans la boutique d'un serveur
 Vous êtes obligés de citer mon nom et le lien vers cet endroit sur votre serveur et si vous comptez les vendre sur un serveur, vous devez me citer avec la description de l'objet.
+
+![Autorisations](https://screenshotscdn.firefoxusercontent.com/images/f72e5ec0-751a-43ca-a344-1248e3bc4903.png)
+
 
 Merci beaucoup d'avoir écouté jusqu'au bout.
 
