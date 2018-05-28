@@ -33,7 +33,9 @@ Les mobs (skills,mobs,items...) seront classés en **3 groupes** :
 Vous ne pouvez donc **aucunement vendre** tout les fichiers ici, ces règles ne s'appliquent pas si ils font partis d'un tout plus grand (serveur). Ils peuvent donc être vendus par exemple en tant qu'oeufs de monstres dans la boutique d'un serveur
 Vous êtes obligés de citer mon nom et le lien vers cet endroit sur votre serveur et si vous comptez les vendre sur un serveur, vous devez me citer avec la description de l'objet.
 
-![Autorisations](https://screenshotscdn.firefoxusercontent.com/images/f72e5ec0-751a-43ca-a344-1248e3bc4903.png)
+![Autorisations](https://screenshotscdn.firefoxusercontent.com/images/d893a011-82ac-47ee-81ec-1acdbe5dcb52.png)
+![Autorisations 2](https://screenshotscdn.firefoxusercontent.com/images/a0d108cb-bce2-454a-b484-42b24d0bdb66.png)
+
 
 
 Merci beaucoup d'avoir écouté jusqu'au bout.
