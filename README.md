@@ -3,7 +3,7 @@
 
 ### Description
 
-Cette page permet de donner (sous quelques conditions) aux personnes intéréssés certains travaux fait pour le serveur Minecraft **Gonelore** concernant les **monstres customs**, un Wiki est aussi à disposition pour les configurateurs Minecraft désireux de continuer certains travaux.
+Cette page permet de donner aux personnes intéréssés certains travaux fait pour le serveur Minecraft **Gonelore** concernant les **monstres customs**, un Wiki est aussi à disposition pour les configurateurs Minecraft désireux de continuer certains travaux.
 
 ### Contenu prévu
 
@@ -19,7 +19,7 @@ Mais voici une liste non exhaustive tout de même :
 Les mobs (skills,mobs,items...) seront classés en **3 groupes** :
 
 * Explicatifs : Niveau 1
-* Moyenne : Niveau 2
+* Moyen : Niveau 2
 * Complexe : Niveau 3
 
 **Attention** Les dossiers Mythicmobs ne risquent pas d'être complet du tout, mais vous pouvez suivre mes avancés directement sur mon profil : [MythicMobs Profil](http://mythicmobs.net/index.php?members/whiterun_sword.2685/)
