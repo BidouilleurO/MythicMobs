@@ -1,0 +1,7 @@
+TestMobJulian:
+  Type: SLIME
+  Display: '&7Smily Smiley'
+  Health: 30
+  Damage: 4
+  Skills:
+  - skill{s=TestSkillJulian} @Target ~onAttack
