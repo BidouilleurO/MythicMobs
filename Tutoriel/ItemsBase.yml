@@ -1,8 +1,3 @@
-IronAxe:
-  Id: 258
-DragonHead:
-  Id: 397
-  Data: 5
 PlaceholderHelm:
   Id: 0
 PlaceholderArmor:
@@ -97,3 +92,12 @@ DiamondHoe:
   Id: 293
 DiamondSword:
   Id: 276
+IronHoe:
+  Id: 292
+ IronAxe:
+  Id: 258
+DragonHead:
+  Id: 397
+  Data: 5
+GlassHead:
+  Id: 20
