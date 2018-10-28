@@ -4,4 +4,4 @@ TestMobJulian:
   Health: 30
   Damage: 4
   Skills:
-  - skill{s=TestSkillJulian} @Target ~onAttack
+  - skill{s=TestSkillJulian} @Target ~onDamaged
