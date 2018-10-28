@@ -1,0 +1,6 @@
+TestSkillJulian:
+  TargetConditions:
+  - inblock WATER
+  Skills:
+  - potion{type=WHITHER;duration=60;level=3}
+  - damage{amount=2}
