@@ -1,0 +1,111 @@
+turtlehead:
+  Id: 397
+  Data: 3
+  Options:
+    SkinTexture: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTJlNTQ4NDA4YWI3NWQ3ZGY4ZTZkNWQyNDQ2ZDkwYjZlYzYyYWE0ZjdmZWI3OTMwZDFlZTcxZWVmZGRmNjE4OSJ9fX0
+beehead:
+  Id: 397
+  Data: 3
+  Options:
+    SkinTexture: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTQ3MzIyZjgzMWUzYzE2OGNmYmQzZTI4ZmU5MjUxNDRiMjYxZTc5ZWIzOWM3NzEzNDlmYWM1NWE4MTI2NDczIn19fQ==
+owlhead:
+  Id: 397
+  Data: 3
+  Options:
+    SkinTexture: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjM2ZDhlYWRlYzk3MmMyOTgwNmVhY2YyNTI3ZTQ5NjJhM2U1ZmY1NzcyY2JjNjQwMWVhYjI2YTg5YjhmMTcyIn19fQ==
+froghead:
+  Id: 397
+  Data: 3
+  Options:
+    SkinTexture: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDFlZjlmMWFlNGQyYmNiYmRmNzc4NDVmOWNiM2QzNTVjZGNhZGQ0ZGZiYmU5ZTdjYzNiNTI5OGRlMjZkYTZmIn19fQ==
+magmahead:
+  Id: 397
+  Data: 3
+  Options:
+    SkinTexture: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmI1MDhjNzc5ZjMxMmRhZmYzMzdkMTM3ZjM0ZGQzNjVhM2Y5YzEzMmJkOTJlYjBjNWZmYWI3YzViNGE1NWM1In19fQ==
+beautiful_feather:
+  Id: 288
+  Display: '&7&oBeautiful Feather'
+  Lore:
+  - ''
+  - '&7Rarity :&r &c&lEpic&r'
+  - ''
+  - 'beautiful feather who give luck'
+  - 'to its bearer'
+  Enchantments:
+  - DURABILITY:10
+  Attributes:
+    OffHand:
+      Luck: 5
+      MovementSpeed: 0.25
+turtle_meat:
+  Id: 319
+  Display: '&2Turtle Meat'
+  Lore:
+  - ''
+  - '&7Rarity :&r &f&lCommon&r'
+  - ''
+  - '&a A special bunch of meat'
+frog_potion:
+  Id: potion
+  Display: '&6&lHigh Quality drool of toad'
+  Options:
+    HideFlags: true
+    Color: 25,169,14
+  PotionEffects:
+  - HEAL 600 1
+  - SPEED 600 1
+  - JUMP_BOOST 600 4
+  Lore:
+  - ''
+  - '79Rarity :&r &9&lUncommon&r'
+  - ''
+  - 'Give to your body a little boost ...'
+  - ''
+  - '&c&lEffects:&r'
+  - ''
+  - '&7&l-&r &lHeal&r Lv.1'
+  - '&7&l-&r &lSpeed&r Lv.1 &o[30 Sec]'
+  - '&7&l-&r &lJump Boost&r Lv.4 &o[30 Sec]'
+honey_potion:
+  Id: potion
+  Display: '&2&lHigh Quality Honey'
+  Options:
+    HideFlags: true
+    Color: 250,255,63
+  PotionEffects:
+  - HEAL 600 1
+  - SPEED 800 4
+  - HEAL_BOOST 400 4
+  Lore:
+  - ''
+  - '79Rarity :&r &5&lRare&r'
+  - ''
+  - '&eGive to your body the power of &lHoney!'
+  - ''
+  - '&c&lEffects:&r'
+  - ''
+  - '&7&l-&r &lHeal&r Lv.1'
+  - '&7&l-&r &lSpeed&r Lv.4 &o[40 Sec]'
+  - '&7&l-&r &lHeal Boost&r Lv.4 &o[20 Sec]'
+magma_potion:
+  Id: potion
+  Display: '&c&lBottle of Magma'
+  Options:
+    HideFlags: true
+    Color: 250,10,10
+  PotionEffects:
+  - HEAL 600 1
+  - FIRE_RESISTANCE 99999 4
+  - HEAL_BOOST 99999 1
+  Lore:
+  - ''
+  - '79Rarity :&r &9&lUncommon&r'
+  - ''
+  - '&e A bottle of concentred magma.'
+  - ''
+  - '&c&lEffects:&r'
+  - ''
+  - '&7&l-&r &lHeal&r Lv.1'
+  - '&7&l-&r &lFire Resistance&r Lv.1 &o[10 Min]'
+  - '&7&l-&r &lHeal Boost&r Lv.1 &o[10 Min]'

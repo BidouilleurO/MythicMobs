@@ -1,0 +1,13 @@
+frog_fur:
+  Id: leather_helmet
+  Display: '&2Frog Tunic'
+  Options:
+    Color: 25,169,14
+  Lore:
+  - ''
+  - '&7Rarity :&r &f&lRare&r'
+  - ''
+  - '&a A tunic who grant you a new'
+  - 'ability when you take damages'
+  Skills:
+  - leap{velocity=-10} @target ~onDamaged

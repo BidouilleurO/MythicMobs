@@ -1,0 +1,49 @@
+turtleDead:
+  Conditions:
+  - playerwithin 20
+  Drops:
+  - 351:2 1 0.5
+  - 351:2 1 0.25
+  - turtle_meat 1 0.25
+  - 351:2 1 0.125
+  - exp 2
+beeDead:
+  Conditions:
+  - playerwithin 20
+  Drops:
+  - 351:11 1 0.5
+  - 351:11 1 0.25
+  - 351:11 1 0.125
+  - honey_potion 1 0.08
+  - exp 3
+owlDead:
+  Conditions:
+  - playerwithin 20
+  Drops:
+  - 288 1 0.5
+  - 288 1 0.25
+  - 288 1 0.125
+  - beautiful_feather 1 0.01
+  - exp 6
+frogDead:
+  Conditions:
+  - playerwithin 20
+  Drops:
+  - 351:2 1 0.5
+  - 351:2 1 0.25
+  - 351:2 1 0.125
+  - frog_fur 1 0.01
+  - frog_potion 1 0.1
+  - exp 6
+magmaDead:
+  Conditions:
+  - playerwithin 20
+  Drops:
+  - 378 1 0.5
+  - 378 1 0.25
+  - 378 1 0.125
+  - 213 1 0.25
+  - 383:62 1 0.05
+  - magma_potion 1 0.15
+  - exp 30
+  
