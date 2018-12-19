@@ -23,6 +23,11 @@ magmahead:
   Data: 3
   Options:
     SkinTexture: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmI1MDhjNzc5ZjMxMmRhZmYzMzdkMTM3ZjM0ZGQzNjVhM2Y5YzEzMmJkOTJlYjBjNWZmYWI3YzViNGE1NWM1In19fQ==
+icehead:
+  Id: 397
+  Data: 3
+  Options:
+    SkinTexture: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjU4Y2FhYjRjOTQxNjM5NWI1OGU4Y2Y2ZjBjYjg2NDhmOWZhZGIxZDgwZDEyMTY2ZGNlNGEzZDI3MjVmYTUzIn19fQ==
 beautiful_feather:
   Id: 288
   Display: '&7&oBeautiful Feather'
@@ -96,8 +101,8 @@ magma_potion:
     Color: 250,10,10
   PotionEffects:
   - HEAL 600 1
-  - FIRE_RESISTANCE 99999 4
-  - HEAL_BOOST 99999 1
+  - FIRE_RESISTANCE 12000 4
+  - HEAL_BOOST 12000 1
   Lore:
   - ''
   - '79Rarity :&r &9&lUncommon&r'
@@ -108,4 +113,25 @@ magma_potion:
   - ''
   - '&7&l-&r &lHeal&r Lv.1'
   - '&7&l-&r &lFire Resistance&r Lv.1 &o[10 Min]'
+  - '&7&l-&r &lHeal Boost&r Lv.1 &o[10 Min]'
+ice_potion:
+  Id: potion
+  Display: '&c&lBottle of Ice'
+  Options:
+    HideFlags: true
+    Color: 10,10,250
+  PotionEffects:
+  - HEAL 600 1
+  - WATER_BREATHING 11999 4
+  - HEAL_BOOST 11999 1
+  Lore:
+  - ''
+  - '79Rarity :&r &9&lUncommon&r'
+  - ''
+  - '&e A bottle of concentred ice.'
+  - ''
+  - '&c&lEffects:&r'
+  - ''
+  - '&7&l-&r &lHeal&r Lv.1'
+  - '&7&l-&r &lSpeed&r Lv.1 &o[10 Min]'
   - '&7&l-&r &lHeal Boost&r Lv.1 &o[10 Min]'
