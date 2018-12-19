@@ -46,4 +46,14 @@ magmaDead:
   - 383:62 1 0.05
   - magma_potion 1 0.15
   - exp 30
-  
+iceDead:
+  Conditions:
+  - playerwithin 20
+  Drops:
+  - 332 1 0.5
+  - 332 1 0.25
+  - 332 1 0.125
+  - 80 1 0.25
+  - 383:102 1 0.05
+  - ice_potion 1 0.15
+  - exp 30
