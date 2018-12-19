@@ -93,3 +93,24 @@ magma:
     Silent: true
     PreventRenaming: true
     MovementSpeed: 0.15
+ice:
+  Mobtype: bat
+  Display: 'ice'
+  Health: 15
+  Armor: 2
+  Drops:
+  - iceDead
+  Disguise:
+   Type: babyzombie
+  Skills:
+  - potion{t=INVISIBILITY;d=2147483647;l=1} @self ~onSpawn
+  - equip{i=icehead:4} ~onSpawn
+  - effect:particlering{particle=flame;radius=5;points=32;amount=1;hS=1;vS=0} @self ~onTimer:10
+  - skill{s=icearrow} @NearestPlayer{r=20} ~onTimer:40
+  - potion{type=SPEED;duration=999999;level=1} @Self ~onSpawn
+  Options:
+    PreventRandomEquipment: true
+    PreventOtherDrops: true
+    Silent: true
+    PreventRenaming: true
+    MovementSpeed: 0.15
