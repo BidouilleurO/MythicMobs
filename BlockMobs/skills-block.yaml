@@ -1,11 +1,21 @@
 magmaarrow:
   Skills:
-  - projectile{onTick=magmaTick;onHit=magma-Hit;v=8;i=1;hR=1;vR=1}
+  - projectile{onTick=magma-Tick;onHit=magma-Hit;v=8;i=1;hR=1;vR=1}
 magma-Tick:
   Skills:
   - effect:particles{p=flame;amount=20;speed=0;hS=0.2;vS=0.2} @origin
 magma-Hit:
   Skills:
   - damage{a=5}
-  - potion{type=SLOW;duration=100;lvl=2
+  - potion{type=SLOW;duration=100;lvl=1}
   - ignite{ticks=100}
+icearrow:
+  Skills:
+  - projectile{onTick=ice-Tick;onHit=ice-Hit;v=8;i=1;hR=1;vR=1}
+ice-Tick:
+  Skills:
+  - effect:particles{p=snowballpoof;amount=20;speed=0;hS=0.2;vS=0.2} @origin
+ice-Hit:
+  Skills:
+  - damage{a=5}
+  - potion{type=SLOW;duration=100;lvl=3}
