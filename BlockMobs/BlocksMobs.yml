@@ -9,8 +9,8 @@ turtle:
   Skills:
   - potion{t=INVISIBILITY;d=2147483647;l=1} @self ~onSpawn
   - equip{i=turtlehead:4} ~onSpawn
-  - effect:particlering{particle=bubble;radius=3;points=32;amount=12;hS=1;vS=0} @self ~onDamage
-  - effect:particlering{particle=bubble;radius=3;points=32;amount=3;hS=1;vS=0} @self ~onTimer:10
+  - effect:particlering{particle=bubble;radius=3;points=32;amount=14;hS=1;vS=0} @self ~onDamage
+  - effect:particlering{particle=bubble;radius=3;points=32;amount=4;hS=1;vS=0} @self ~onTimer:10
   Options:
     PreventRandomEquipment: true
     PreventOtherDrops: true
